@@ -1,0 +1,28 @@
+**Domain Registrar & Owner Organization:**
+
+* Domain Registrar: MarkMonitor Inc. (Registry Domain ID: 2138514_DOMAIN_COM-VRSN)
+* No explicit owner organization information provided, as expected for a well-known domain like Google.com.
+
+**Important Dates:**
+
+* Creation Date: September 15, 1997
+* Last Updated Date: June 15, 2026 (WHOIS database update)
+* Expiry Date: September 14, 2028
+
+**Name Servers (NS Records):**
+
+* NS1.GOOGLE.COM
+* NS2.GOOGLE.COM
+* NS3.GOOGLE.COM
+* NS4.GOOGLE.COM
+
+**Operational Security Insights:**
+
+* The domain owner data is not explicitly redacted or hidden for privacy. However, it's common practice for large organizations like Google to keep their ownership information private.
+* No anomalies are immediately apparent in the WHOIS record, indicating a normal and legitimate registration process.
+* Note that some status codes are listed (e.g., clientDeleteProhibited), which suggest that certain actions (like deletion or transfer) may be restricted or prohibited. This is likely a standard configuration for a high-profile domain like Google.com.
+
+**Additional Observations:**
+
+* The WHOIS record includes several boilerplate statements regarding ICANN Whois Inaccuracy Complaint Form and terms of use, as well as warnings about automated query processes.
+* The DNSSEC status is listed as "unsigned," indicating that the domain does not currently support DNSSEC (Domain Name System Security Extensions).

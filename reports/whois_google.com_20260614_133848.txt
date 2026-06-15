@@ -1,0 +1,37 @@
+**Domain Registrar & Owner Organization:**
+
+* Domain Registrar: MarkMonitor Inc.
+* IANA ID: 292
+* Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+* Registrar Abuse Contact Phone: +1.2086851750
+
+MarkMonitor Inc. is the domain registrar for google.com, a well-known and reputable company in the domain registration industry.
+
+**Important Dates (Creation, Expiry, Last Updated):**
+
+* Creation Date: 1997-09-15T04:00:00Z
+* Registry Expiry Date: 2028-09-14T04:00:00Z
+* Last Update of whois database: 2026-06-14T17:34:43Z
+
+The domain was created in September 1997 and is set to expire in September 2028. The WHOIS data was last updated on June 14, 2026.
+
+**Name Servers (NS Records):**
+
+* NS1.GOOGLE.COM
+* NS2.GOOGLE.COM
+* NS3.GOOGLE.COM
+* NS4.GOOGLE.COM
+
+The domain has four name servers, all of which are hosted at Google.com. This indicates that the domain's DNS is managed by Google itself.
+
+**Operational Security Insights:**
+
+* The owner data appears to be accurate and not redacted or hidden for privacy purposes.
+* There are no obvious anomalies in the WHOIS data.
+* The domain has various status codes indicating that it is not possible to delete, transfer, or update the domain without explicit permission from the registrar.
+
+**Additional Notes:**
+
+* DNSSEC is not enabled for this domain.
+* The ICANN Whois Inaccuracy Complaint Form URL is provided for reporting any inaccuracies in the WHOIS data.
+* The terms of use for querying the WHOIS database are clearly stated, emphasizing that high-volume and automated queries are prohibited.

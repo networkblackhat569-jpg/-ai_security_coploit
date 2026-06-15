@@ -1,0 +1,23 @@
+Based on the provided raw WHOIS data, I've extracted and summarized the key intelligence fields:
+
+**1. Domain Registrar & Owner Organization:**
+
+* The registrar of record is Public Interest Registry (PIR).
+
+**2. Important Dates:**
+
+* Last update of WHOIS database: 2026-06-14T17:30:53Z
+
+Note that there are no creation, expiry, or last updated dates mentioned in the provided data.
+
+**3. Name Servers (NS Records):**
+
+No NS records are mentioned in the provided data, likely due to the malformed request.
+
+**4. Operational Security Insights:**
+
+* The WHOIS record is redacted, indicating that the owner data is hidden for privacy purposes.
+* There are no anomalies or suspicious activity detected from the provided data.
+* The Terms of Use section highlights Public Interest Registry's policy on using WHOIS data, emphasizing fair use and prohibiting high-volume automated processes.
+
+In summary, the scanme.nmap.org domain appears to be registered through Public Interest Registry (PIR), with redacted owner data for privacy purposes.

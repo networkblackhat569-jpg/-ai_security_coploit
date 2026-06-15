@@ -1,0 +1,26 @@
+**Incident Level:** Medium
+
+**Summary of Threat Detected:** Brute Force SSH attack on the Kali Linux system, attempting to gain unauthorized access as the "root" user.
+
+**Evidence from Logs:**
+
+* IP address of attacker: 192.168.1.150
+* Timestamps:
+	+ Failed password attempts: Jun 14 20:45:12, Jun 14 20:45:14, Jun 14 20:45:16
+	+ Successful login attempt: Jun 14 20:45:18
+
+**Remediation Steps:**
+
+1. Block the attacker's IP address:
+	* Update firewall rules to block incoming traffic from 192.168.1.150.
+	* Use a deny-by-default policy for SSH connections.
+2. Monitor and alert on suspicious activity:
+	* Configure SIEM (Security Information and Event Management) system to monitor SSH logs and generate alerts for failed login attempts within a short time frame (e.g., 5 minutes).
+3. Enforce strong password policies:
+	* Ensure that the root account has a strong, unique password.
+	* Implement regular password rotations and enforcement of password complexity requirements.
+4. Consider implementing rate limiting:
+	* Configure SSH to limit the number of login attempts within a short time frame (e.g., 3 attempts in 5 minutes).
+	* Use a tool like Fail2Ban or DenyHosts to automate this process.
+
+By taking these steps, we can effectively block the attacker's attempts and prevent further unauthorized access to our system.

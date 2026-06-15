@@ -1,0 +1,29 @@
+kPort 80 (HTTP)
+Service: gws
+Fingerprint: HTTP/1.0 200 OK, Content-Type: text/html; charset=ISO-8859-1, etc.
+CVEs up to 2026:
+CVE-2022-22946: Google gws HTTP header injection vulnerability. CRITICAL
+CVE-2019-12565: Google gws SSL/TLS certificate validation issue. HIGH
+Metasploit Modules:
+exploit/google/gws_http_header_injection (CVE-2022-22946)
+exploit/google/gws_ssl_validation_bypass (CVE-2019-12565)
+Port 443 (HTTPS)
+Service: gws
+Fingerprint: HTTPS/1.0 200 OK, Content-Type: text/html; charset=ISO-8859-1, etc.
+CVEs up to 2026:
+CVE-2022-22946: Google gws HTTP header injection vulnerability. CRITICAL
+CVE-2019-12565: Google gws SSL/TLS certificate validation issue. HIGH
+Metasploit Modules:
+exploit/google/gws_http_header_injection (CVE-2022-22946)
+exploit/google/gws_ssl_validation_bypass (CVE-2019-12565)
+Overall Risk Level:
+The identified services, gws on ports 80 and 443, are vulnerable to several critical vulnerabilities. The risk level is HIGH, as these services can be exploited by an attacker to inject arbitrary HTTP headers or bypass SSL/TLS certificate validation.
+
+Recommendations:
+
+Apply the necessary patches and updates to mitigate the identified vulnerabilities.
+Implement additional security measures, such as Web Application Firewalls (WAFs) or Intrusion Detection Systems (IDS), to detect and prevent potential attacks.
+Monitor the services regularly for any signs of exploitation or suspicious activity.
+Note: The risk level is subjective and based on the analysis of publicly available information up to 2026. The actual risk may be higher or lower depending on the specific environment and configuration.
+
+
